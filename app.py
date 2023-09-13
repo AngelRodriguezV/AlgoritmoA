@@ -6,7 +6,7 @@ from settings import *
 
 from algoritmoA import AlgoritmoA
 
-from data.myDataTest1 import *
+from data.myDataTest2 import *
 
 class Motor2D:
 
