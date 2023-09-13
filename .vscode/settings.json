@@ -1,0 +1,9 @@
+{
+    "[python]": {
+        "editor.tabSize": 4
+    },
+    "files.insertFinalNewline": true,
+    "editor.fontSize": 20,
+    "editor.lineHeight": 20,
+    "window.zoomLevel": 0
+}
